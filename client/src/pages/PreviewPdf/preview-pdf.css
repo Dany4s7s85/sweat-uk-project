@@ -1,0 +1,59 @@
+.pdf_preview_container {
+    background-color: white;
+    padding: 10px 10px;
+    margin-top: 20px
+}
+
+.pdf_image_container {
+    display: flex;
+    justify-content: center;
+    padding: 10px 10px;
+}
+
+.pdf_table_data pre {
+    font-size: 10px;
+    padding-bottom: 10px;
+    letter-spacing: 1px;
+}
+
+.filter_data_holder {
+    display: flex;
+    justify-content: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.filter_data_holder spam {
+    margin-left: 20px;
+}
+
+.pdf_table_headers {
+    font-size: 10px;
+}
+
+.graph_data_holder {
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+    margin-bottom: 15px;
+}
+
+.graph_data_holder spam {
+    padding-left: 20px;
+}
+
+.pdf_table_container table {
+    width: 100%;
+}
+
+.pdf_preview_table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+.pdf_preview_table th,
+.pdf_preview_table td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+}

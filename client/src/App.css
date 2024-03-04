@@ -1,0 +1,15 @@
+* {
+  margin: 0;
+  list-style: none;
+  text-decoration: none;
+}
+
+@font-face {
+  font-family: "Benzin-Medium";
+  src: url(./fonts/Benzin-Font/benzin-medium.ttf);
+}
+
+@font-face {
+  font-family: "Benzin-Normal";
+  src: url(./fonts/Benzin-Font/benzin-regular.ttf);
+}
